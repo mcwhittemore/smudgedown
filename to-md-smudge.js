@@ -5,7 +5,7 @@ process.stdin.on("data", function(data){
 });
 
 process.stdin.on("end", function(data){
-	var startString = "<-- SMUDGEDOWN-START\n";
+	var startString = "<!-- SMUDGEDOWN-START\n";
 	var start = html.indexOf(startString);
 	var end = html.indexOf("\nSMUDGEDOWN-END -->");
 

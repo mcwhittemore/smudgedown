@@ -1,0 +1,28 @@
+{
+  "name": "smudgdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "to-html-clean.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "markdown": "^0.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcwhittemore/smudgdown.git"
+  },
+  "author": "Matthew Chase Whittemore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcwhittemore/smudgdown/issues"
+  },
+  "homepage": "https://github.com/mcwhittemore/smudgdown"
+}

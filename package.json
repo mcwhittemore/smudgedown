@@ -1,5 +1,5 @@
 {
-  "name": "smudgdown",
+  "name": "smudgedown",
   "version": "1.0.0",
   "description": "",
   "main": "to-html-clean.js",
@@ -9,11 +9,8 @@
   "dependencies": {
     "markdown": "^0.5.0"
   },
-  "devDependencies": {
-    "mocha": "^2.0.1"
-  },
   "scripts": {
-    "test": "mocha"
+    "install": "make install"
   },
   "repository": {
     "type": "git",
